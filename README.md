@@ -1,0 +1,1 @@
+# trim-function-in-cpp
